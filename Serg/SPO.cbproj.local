@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.472,=C:\Users\AntiPlayer\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,D:\Serg\Settings.cpp=F:\Programm.v1.1\Settings.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,D:\Serg\chart.cpp=D:\Serg\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,D:\Работа\Serg\SPOPCH1.h=D:\Работа\Serg\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,D:\Работа\Serg\SPOPCH1.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,=C:\Users\AntiPlayer\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.181,D:\Работа\Serg\Project2.cbproj=C:\Users\AntiPlayer\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,D:\Serg\obr.h=D:\Serg\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,D:\Serg\SPO.cbproj=D:\Serg\SPO.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,D:\Serg\obr.cpp=D:\Serg\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,=D:\Serg\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,=D:\Serg\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,D:\Serg\chart.h=D:\Serg\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=C:\Users\AntiPlayer\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.483,=C:\Users\AntiPlayer\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,D:\Работа\Serg\main.dfm=C:\Users\AntiPlayer\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,=F:\Programm.v1.1\Settings.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,D:\Работа\Serg\main.cpp=C:\Users\AntiPlayer\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,D:\Работа\Serg\main.h=C:\Users\AntiPlayer\Documents\RAD Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,D:\Serg\Settings.dfm=F:\Programm.v1.1\Settings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,D:\Работа\Serg\SPO.cbproj=D:\Работа\Serg\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,=D:\Работа\Serg\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,D:\Работа\Serg\potok.h=D:\Работа\Serg\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,D:\Serg\Settings.h=F:\Programm.v1.1\Settings.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,D:\Работа\Serg\potok.cpp=D:\Работа\Serg\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.497,D:\Работа\Serg\Project2PCH1.h=C:\Users\AntiPlayer\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
